@@ -15,4 +15,6 @@ The application supports multi-document management, allowing users to create new
 ShareDraft is platform-independent, accessible via modern web browsers on desktops or mobile devices. Its design emphasizes accessibility, simplicity, and real-time collaboration, making it ideal for educational, professional, and organizational use cases. The combination of React.js, Tailwind CSS, Node.js, Socket.IO, and SQLite ensures a robust, performant, and visually appealing collaborative document platform.
 
 Output:
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/14036782-0169-4a62-aeb9-0acc1e7e9b7e" />
 
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/aadc92d6-ccd6-4f9b-aadb-a281fd25c2fd" />
